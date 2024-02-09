@@ -38,12 +38,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devmuniz/devmuniz/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmuniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
-
-
-<!---
-devmuniz/devmuniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
