@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧐I'm 22 yeas old and I living in Santos, SP/BR <br>💻 Here you can find some of my projects, I hope you like them.</p>
+<p align="left">😉I'm 22 yeas old and I living in Santos, SP/BR <br>💻 Here you can find some of my projects, I hope you like them.</p>
 
 ###
 
