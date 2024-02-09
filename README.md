@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<div align="center" class="mt-10">
+<div align="center" class="mt-40">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmuniz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
